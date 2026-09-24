@@ -1,21 +1,17 @@
 # Felipe Rodrigues dos Santos
 
-### Desenvolvedor em formação | Desenvolvimento Web | Software
+### Desenvolvedor em formação | Desenvolvimento de Software
 
 Estudante da área de Informática, interessado em desenvolvimento de software e tecnologia.
-Atualmente venho aprimorando meus conhecimentos através de estudos e desenvolvimento de aplicações, buscando transformar conceitos aprendidos em prática e entender cada vez melhor como diferentes tecnologias trabalham em conjunto.
-Tenho interesse principalmente em desenvolvimento web, programação, APIs e bancos de dados, enquanto continuo expandindo meus conhecimentos em diferentes linguagens.
-
----
+Atualmente venho aprimorando meus conhecimentos através de estudos e desenvolvimento de aplicações, buscando transformar o conhecimento adquirido em prática e entender cada vez melhor como diferentes tecnologias trabalham em conjunto.
+Tenho interesse principalmente em desenvolvimento web, programação, APIs e bancos de dados.
 
 ## Sobre mim
 
 Sou estudante de Informática e estou construindo minha trajetória na área de desenvolvimento de software.
 Gosto de aprender através da prática, entender a lógica por trás das tecnologias e buscar soluções para os problemas que encontro durante o desenvolvimento.
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web e também estudando novas linguagens para ampliar minha base de programação.
-Meu objetivo é continuar evoluindo tecnicamente e, futuramente, atuar profissionalmente na área de desenvolvimento de software.
-
----
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web e estudando novas linguagens para ampliar minha base de programação.
+Meu objetivo é continuar evoluindo tecnicamente e adquirir experiência profissional na área de tecnologia.
 
 ## Tecnologias
 
@@ -47,27 +43,9 @@ Meu objetivo é continuar evoluindo tecnicamente e, futuramente, atuar profissio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
----
-
-## Atualmente
-
-- ⚛️ Aprofundando meus conhecimentos em React
-- 🌐 Desenvolvendo aplicações web
-- 🔌 Estudando APIs e integração entre sistemas
-- 🗄️ Trabalhando com PostgreSQL e bancos de dados
-- 🟢 Praticando Node.js e Express
-- ☕ Estudando Java
-- 🐍 Praticando e retomando conhecimentos em Python
-- 🧠 Melhorando lógica e organização de código
-- 🔧 Aprimorando Git e GitHub
-
----
-
 ## Objetivo
 
 Busco continuar evoluindo como desenvolvedor, adquirindo experiência prática e construindo uma base sólida em desenvolvimento de software.
-Tenho interesse em oportunidades que me permitam aprender, contribuir e crescer profissionalmente na área de tecnologia. 
-
----
+Tenho interesse em oportunidades que me permitam aprender, contribuir e crescer profissionalmente na área de tecnologia.
 
 > Em constante aprendizado e evolução.
